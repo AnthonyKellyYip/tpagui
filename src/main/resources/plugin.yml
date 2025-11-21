@@ -1,3 +1,5 @@
+# Original TpaGui plugin by ning-g-mo can be found on Modrinth at https://modrinth.com/plugin/tpagui and Github at https://github.com/RunicWonders/tpagui 
+# English translation of plugin.yml for v1.1.0 by AnthonyKellyYip 
 name: TpaGui
 version: 1.1.0
 main: cn.ningmo.tpagui.TpaGui
