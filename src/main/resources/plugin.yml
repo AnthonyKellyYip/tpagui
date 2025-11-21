@@ -6,16 +6,16 @@ softdepend: [floodgate]
 
 commands:
   tpagui:
-    description: 打开传送请求GUI菜单
-    usage: "§c用法: /<command>"
+    description: Opens TP Request GUI
+    usage: "§cUsage: /<command>"
     aliases: [tpag, tgui]
     permission: tpagui.use
-    permission-message: "§c你没有权限使用此命令！"
+    permission-message: "§cYou do not have permission to use this command！"
 
 permissions:
   tpagui.use:
-    description: 允许使用/tpagui命令
+    description: Allows use of /tpagui command
     default: true
   tpagui.admin:
-    description: 管理员权限（接收更新通知等）
+    description: Administrator privileges (receive update notifications etc)
     default: op
